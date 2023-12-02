@@ -80,14 +80,12 @@ Forecasting Page:
 
 
 
-Mapping using Bubble:
  ![image](https://github.com/Nishu2903/Power-Bi-Dashboard-Advance-/assets/117971452/110ddaf7-65b7-4743-a637-1a3a0e51a49d)
 
 
 
 
 
-Other Relevant facts and Analysis:
  ![image](https://github.com/Nishu2903/Power-Bi-Dashboard-Advance-/assets/117971452/7e95ff4a-1b47-496a-9848-a8083d32e708)
 
 
